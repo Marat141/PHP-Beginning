@@ -1,11 +1,11 @@
 <?php
 
-    //Cyklus foreach - na praci s polem
-    //Cyklus for - kolikkrát se má smička provést
-    for ($i = 1; $i <= 10; $i++) {
-        echo $i.(". Marat");
+    //Cyklus while => nevíme kolikrát
+    $month = 1;
+    while ($month <= 12) {
+        echo $month;
         echo "<br>";
+        $month++;
     };
-
 
 ?>
