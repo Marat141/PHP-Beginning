@@ -1,3 +1,4 @@
+
 <?php
 
     //Cyklus foreach - na praci s polem
